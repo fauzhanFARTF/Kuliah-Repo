@@ -1,0 +1,42 @@
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.pdb
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.xml
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Form1.resources
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Resources.resources
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.vbproj.GenerateResource.Cache
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+F:\KULIAH\Bahan Semester 2\VB Net\UTS\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb
+F:\KULIAH\Bahan Semester 2\VB Net\UTS-2020804178_FauzanNurrachman\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+F:\KULIAH\Bahan Semester 2\VB Net\UTS-2020804178_FauzanNurrachman\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+F:\KULIAH\Bahan Semester 2\VB Net\UTS-2020804178_FauzanNurrachman\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+F:\KULIAH\Bahan Semester 2\VB Net\UTS-2020804178_FauzanNurrachman\2020804178-FauzanNurrachman\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Form1.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Resources.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Form1.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\_2020804178_FauzanNurrachman.Resources.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178 - UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\bin\Debug\2020804178-FauzanNurrachman.exe.config
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-UTS\2020804178-FauzanNurrachman\obj\Debug\2020804178-FauzanNurrachman.pdb

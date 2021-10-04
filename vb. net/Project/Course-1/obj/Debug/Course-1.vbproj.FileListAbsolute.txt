@@ -1,0 +1,82 @@
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.exe.config
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.exe
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.pdb
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.xml
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.Form1.resources
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.Resources.resources
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.exe
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.xml
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.pdb
+E:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.exe.config
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.exe
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.xml
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.pdb
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.exe
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.pdb
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\bin\Debug\Course-1.xml
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.Resources.resources
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.Menuutama.resources
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.DataBarang.resources
+F:\KULIAH\Bahan Semester 2\VB Net\Project-Course\Course-1\Course-1\obj\Debug\Course_1.User.resources
+C:\xampp\htdocs\vb\Course-1\bin\Debug\Course-1.exe.config
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course-1.exe
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course-1.xml
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course-1.pdb
+C:\xampp\htdocs\vb\Course-1\bin\Debug\Course-1.exe
+C:\xampp\htdocs\vb\Course-1\bin\Debug\Course-1.pdb
+C:\xampp\htdocs\vb\Course-1\bin\Debug\Course-1.xml
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course_1.DataBarang.resources
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course_1.Menuutama.resources
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course_1.Resources.resources
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course_1.User.resources
+C:\xampp\htdocs\vb\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\bin\Debug\Course-1.exe.config
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\bin\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\bin\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\bin\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course_1.DataBarang.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course_1.Menuutama.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course_1.Resources.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course_1.User.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo\vb.net\Pertemuan 1-6\Course-1\obj\Debug\Course_1.login.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\bin\Debug\Course-1.exe.config
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\bin\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\bin\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\bin\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course_1.DataBarang.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course_1.login.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course_1.Menuutama.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course_1.Resources.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course_1.User.resources
+C:\xampp\htdocs\kuliah-repo\vb.net\Project\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\bin\Debug\Course-1.exe.config
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course-1.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.DataCustomer.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.DataBarang.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.login.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.Menuutama.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.Resources.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.User.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course-1.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\bin\Debug\Course-1.exe
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\bin\Debug\Course-1.pdb
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\bin\Debug\Course-1.xml
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.LapBarang.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\Project\Course-1\obj\Debug\Course_1.LapCustomer.resources

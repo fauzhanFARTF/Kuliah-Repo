@@ -1,0 +1,12 @@
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\bin\Debug\2020804178-KuisUAS-FauzanNurrachman.exe.config
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\bin\Debug\2020804178-KuisUAS-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\bin\Debug\2020804178-KuisUAS-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\bin\Debug\2020804178-KuisUAS-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\_2020804178_KuisUAS_FauzanNurrachman.Form1.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\_2020804178_KuisUAS_FauzanNurrachman.Resources.resources
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\2020804178-KuisUAS-FauzanNurrachman.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\2020804178-KuisUAS-FauzanNurrachman.exe
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\2020804178-KuisUAS-FauzanNurrachman.xml
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\2020804178-KuisUAS-FauzanNurrachman.pdb
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\2020804178-KuisUAS-FauzanNurrachman.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\kuliah-repo-onlywindows\vb.net\2020804178-KuisUAS-FauzanNurrachman\2020804178-KuisUAS-FauzanNurrachman\obj\Debug\_2020804178_KuisUAS_FauzanNurrachman.LapTamu.resources
